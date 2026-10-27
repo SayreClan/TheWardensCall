@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm George Sayre (TheWarden)
 ##  About Me
-I am currently a sophomore at UTSA with my major in cybersecurity
+I am currently a sophomore at UTSA with my major in cybersecurity, with my interests being pokemon collecting and anime
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
